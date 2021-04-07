@@ -96,7 +96,7 @@ v_pagar = (v_persona * c_dias) * 1.12
 print(f"El valor a pagar es de: {v_pagar}")
 
 # Ejercicio 14
-cantidad_dias = int(input(("Digite la cantidad de días que desea hospedarse."))
+cantidad_dias = int(input(("Digite la cantidad de días que desea hospedarse.")))
 v_pagar = 100000 + ((cantidad_dias-1) * 200000)
 print(f"El valor a pagar es de: {v_pagar}")
 
